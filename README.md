@@ -1,7 +1,7 @@
 
 # Reset this PC
 
-[![Reset this PC](red2.png)](https://computersolve.com/reset-this-pc/)
+[![Reset this PC](red2.png)](https://icncomputer.com/reset-this-pc/)
 
 
 **Reset This PC** is a recovery feature available in Windows 11 and Windows 10 that lets you reinstall Windows again from scratch with just a few taps or clicks, much like a factory reset or restore, but no install disc or flash drive is needed. You even have the option of keeping or removing your personal files in the process!
